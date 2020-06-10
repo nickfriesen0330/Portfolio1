@@ -1,0 +1,25 @@
+.navbar-brand.d-lg-inline-block{
+    color: azure;
+    background-color: #4aaaa5;
+    margin-bottom: 100px;
+    position: relative;
+    
+    
+}
+body{
+    background-color: gray
+}
+.Portfolio{
+    color: #4aaaa5;
+    text-align: left;
+    margin-bottom: 50px;
+
+
+}
+.photorow1{
+    margin-bottom: 100px;
+    margin-left: 100px;
+}
+.container{
+    background-color: #ffffff;
+}
